@@ -1,6 +1,6 @@
 # watch
 
-### Web app url
+### frontend only Web app url
 
 [gentleman-s.web.app](https://gentleman-s.web.app)
 
